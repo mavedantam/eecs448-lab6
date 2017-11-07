@@ -1,0 +1,5 @@
+1. addBack doesn't seem to add nodes to the back of the list, instead it's adding to the front
+2. removeBack doesn't seem to delete the last node in the list
+4. removeFront doesn't seem to delete the last node in the list
+3. removeBack and removeFront don't seem to change the size of the list
+6. isEmpty is returning true whether or not the list is empty
